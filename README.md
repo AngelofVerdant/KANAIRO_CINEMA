@@ -139,25 +139,25 @@ Movie Page
   <img src="https://github.com/AngelofVerdant/readme-assets/blob/master/cinema-plus/invitation.png" />
 
   Guest Dashboard Page
-  <img src="https://github.com/AngelofVerdant/readme-assets/blob/master/cinema-plus/guest-dashboard.png" />
+  <img src="https://github.com/AngelofVerdant/readme-Assets/kanairo-cinema/guest-dashboard.png" />
 
   My Account Page
-  <img src="https://github.com/AngelofVerdant/readme-assets/blob/master/cinema-plus/my-account.png" />
+  <img src="https://github.com/AngelofVerdant/readme-Assets/kanairo-cinema/my-account.png" />
 
   Admin Home Page
-  <img src="https://github.com/AngelofVerdant/readme-assets/blob/master/cinema-plus/admin-dashboard.png" />
+  <img src="https://github.com/AngelofVerdant/readme-Assets/kanairo-cinema/admin-dashboard.png" />
 
   Admin Cinema Page
-  <img src="https://github.com/AngelofVerdant/readme-assets/blob/master/cinema-plus/admin-cinemas.png" />
+  <img src="https://github.com/AngelofVerdant/readme-Assets/kanairo-cinema/admin-cinemas.png" />
 
   Admin Movie Page
-  <img src="https://github.com/AngelofVerdant/readme-assets/blob/master/cinema-plus/admin-movies.png" />
+  <img src="https://github.com/AngelofVerdant/readme-Assets/kanairo-cinema/admin-movies.png" />
 
   Admin Reservation Page
-  <img src="https://github.com/AngelofVerdant/readme-assets/blob/master/cinema-plus/reservations.png" />
+  <img src="https://github.com/AngelofVerdant/readme-Assets/kanairo-cinema/reservations.png" />
 
   Admin Reservation Calendar
-  <img src="https://github.com/AngelofVerdant/readme-assets/blob/master/cinema-plus/calendar.png" />
+  <img src="https://github.com/AngelofVerdant/readme-Assets/kanairo-cinema/calendar.png" />
 </details>
 
 
