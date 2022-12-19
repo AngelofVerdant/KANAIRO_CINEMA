@@ -128,15 +128,15 @@ Cinema + is currently extended with the following plugins. Instructions on how t
 # Screenshots! 
 
 Movie Page
-<img src="https://github.com/AngelofVerdant/readme-assets/blob/master/cinema-plus/movie.png" />
+<img src="https://github.com/AngelofVerdant/readme-Assets/kanairo-cinema/movie.png" />
 
 <details>
   <summary>More Screenshots</summary>
   Booking Page
-  <img src="https://github.com/AngelofVerdant/readme-assets/blob/master/cinema-plus/booking.png" />
+  <img src="https://github.com/AngelofVerdant/readme-Assets/kanairo-cinema/booking.png" />
 
   Booking Invitations
-  <img src="https://github.com/AngelofVerdant/readme-assets/blob/master/cinema-plus/invitation.png" />
+  <img src="https://github.com/AngelofVerdant/readme-Assets/kanairo-cinema/invitation.png" />
 
   Guest Dashboard Page
   <img src="https://github.com/AngelofVerdant/readme-Assets/kanairo-cinema/guest-dashboard.png" />
